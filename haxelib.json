@@ -1,0 +1,14 @@
+{
+	"name": "lutra",
+	"url": "http://www.google.de",
+	"license": "MIT",
+	"tags": ["cross", "openfl", "retto", "cpp", "html5", "web", "android", "ios", "mac", "windows", "linux", "native", "js", "javascript", "flash"],
+	"description": "A cross-platform game engine. Based on the principle of entities, components and systems. Based on Retto.",
+	"version": "0.0.1",
+	"releasenote": "Initial release",
+	"contributors": ["chipshort"],
+	"dependencies": {
+		"openfl": "",
+		"retto": "",
+	}
+}
